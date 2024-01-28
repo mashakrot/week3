@@ -9,11 +9,11 @@ public class Animal
     private int age;
     private ArrayList<Zoo> zooAnimals = new ArrayList<>();
 
-    public Animal() {
-        species = "Hedgehog";
-        name = "Pikseli";
-        age = 5;
-    }
+    // public Animal() {
+    //     species = "Hedgehog";
+    //     name = "Pikseli";
+    //     age = 5;
+    // }
 
     public Animal(String species, String name, int age){
         this.species = species;

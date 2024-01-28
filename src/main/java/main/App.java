@@ -15,8 +15,8 @@ public class App
         String zooName = sc.nextLine();
 
         ArrayList<Animal> animals = new ArrayList<>();
-        Animal defAnimal = new Animal();
-        animals.add(defAnimal);
+        // Animal defAnimal = new Animal();
+        // animals.add(defAnimal);
 
         boolean exit = false;
         while (!exit) {
